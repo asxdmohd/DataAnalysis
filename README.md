@@ -1,1 +1,1 @@
-# This is the 100 Day challenge of DataAnalysis Repository. 
+# This is the 100 Day challenge of DataAnalysis.
